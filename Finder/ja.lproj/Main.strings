@@ -1,0 +1,189 @@
+
+/* Class = "UILabel"; text = "Or login via"; ObjectID = "0C0-ps-C6Z"; */
+"0C0-ps-C6Z.text" = "Or login via";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "0Vd-ME-AwU"; */
+"0Vd-ME-AwU.text" = "位置情報";
+
+/* Class = "UILabel"; text = "About Me"; ObjectID = "1FE-RL-PJ8"; */
+"1FE-RL-PJ8.text" = "About Me";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "1Sg-Ae-Dge"; */
+"1Sg-Ae-Dge.normalTitle" = "ログアウト";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "52D-ES-6WZ"; */
+"52D-ES-6WZ.normalTitle" = "保存";
+
+/* Class = "UILabel"; text = "Welcome Back!"; ObjectID = "57N-Bp-GZR"; */
+"57N-Bp-GZR.text" = "Welcome Back!";
+
+/* Class = "UIButton"; normalTitle = "Chat Later"; ObjectID = "5DY-N0-f4A"; */
+"5DY-N0-f4A.normalTitle" = "Chat Later";
+
+/* Class = "UILabel"; text = "Loading Name..."; ObjectID = "5r5-8W-5QE"; */
+"5r5-8W-5QE.text" = "Loading Name...";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "6sB-Jw-xAW"; */
+"6sB-Jw-xAW.text" = "ユーザー名";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "8pH-Mh-kGn"; */
+"8pH-Mh-kGn.text" = "パスワード";
+
+/* Class = "UIButton"; normalTitle = "Both"; ObjectID = "CAp-sD-JVM"; */
+"CAp-sD-JVM.normalTitle" = "Both";
+
+/* Class = "UIButton"; normalTitle = "Chat Now"; ObjectID = "EO0-Zw-Xar"; */
+"EO0-Zw-Xar.normalTitle" = "Chat Now";
+
+/* Class = "UILabel"; text = "Messasges"; ObjectID = "Ecl-Ab-ZPm"; */
+"Ecl-Ab-ZPm.text" = "Messasges";
+
+/* Class = "UILabel"; text = "Interested in"; ObjectID = "Frk-cQ-pXA"; */
+"Frk-cQ-pXA.text" = "Interested in";
+
+/* Class = "UILabel"; text = "EDIT PROFILE"; ObjectID = "GEO-HG-1jH"; */
+"GEO-HG-1jH.text" = "プロフィール編集";
+
+/* Class = "UILabel"; text = "Your information"; ObjectID = "H22-Bp-G6K"; */
+"H22-Bp-G6K.text" = "Your information";
+
+/* Class = "UIButton"; normalTitle = "Terms & Conditions"; ObjectID = "IWS-94-cRI"; */
+"IWS-94-cRI.normalTitle" = "Terms & Conditions";
+
+/* Class = "UILabel"; text = "She Said Yes!"; ObjectID = "Jbr-xn-LPz"; */
+"Jbr-xn-LPz.text" = "She Said Yes!";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "KQO-js-dOM"; */
+"KQO-js-dOM.normalTitle" = "男性";
+
+/* Class = "UIButton"; normalTitle = "Have an account? Login"; ObjectID = "KQW-2q-Kh6"; */
+"KQW-2q-Kh6.normalTitle" = "既に登録している。ログインしますか？";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "LEG-RQ-ntC"; */
+"LEG-RQ-ntC.normalTitle" = "Facebook";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "LNw-kx-6vp"; */
+"LNw-kx-6vp.text" = "Age";
+
+/* Class = "UILabel"; text = "Haruto Ito"; ObjectID = "Lp6-dZ-XNf"; */
+"Lp6-dZ-XNf.text" = "Haruto Ito";
+
+/* Class = "UILabel"; text = "Your Name"; ObjectID = "MW6-Ab-rH2"; */
+"MW6-Ab-rH2.text" = "あなたの名前";
+
+/* Class = "UILabel"; text = "Location Limit"; ObjectID = "OBs-CM-QbC"; */
+"OBs-CM-QbC.text" = "Location Limit";
+
+/* Class = "UIButton"; normalTitle = "Create your Account"; ObjectID = "OPd-ih-nTN"; */
+"OPd-ih-nTN.normalTitle" = "Create your Account";
+
+/* Class = "UILabel"; text = "No Users Found :("; ObjectID = "QSR-BE-HSe"; */
+"QSR-BE-HSe.text" = "No Users Found :(";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "R1p-zI-Gip"; */
+"R1p-zI-Gip.text" = "性別";
+
+/* Class = "UILabel"; text = "PROFILE"; ObjectID = "Ulc-Rk-P3H"; */
+"Ulc-Rk-P3H.text" = "プロフィール";
+
+/* Class = "UILabel"; text = "Login to continue"; ObjectID = "Ux3-f8-Pbl"; */
+"Ux3-f8-Pbl.text" = "Login to continue";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "Xqv-DR-vy5"; */
+"Xqv-DR-vy5.normalTitle" = "女性";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "aw8-9p-hmt"; */
+"aw8-9p-hmt.normalTitle" = "保存";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "b7c-qv-RTw"; */
+"b7c-qv-RTw.text" = "Eメール";
+
+/* Class = "UILabel"; text = "Full name"; ObjectID = "bX1-uP-NSP"; */
+"bX1-uP-NSP.text" = "Full name";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "bzB-Fj-aiQ"; */
+"bzB-Fj-aiQ.normalTitle" = "女性";
+
+/* Class = "UILabel"; text = "Or signup via"; ObjectID = "cU1-3M-S1l"; */
+"cU1-3M-S1l.text" = "Or signup via";
+
+/* Class = "UILabel"; text = "Create an account"; ObjectID = "dUP-yB-oyy"; */
+"dUP-yB-oyy.text" = "Create an account";
+
+/* Class = "UILabel"; text = "Add Your Photo"; ObjectID = "dd8-CT-g4M"; */
+"dd8-CT-g4M.text" = "Add Your Photo";
+
+/* Class = "UILabel"; text = "Loading Last Message.."; ObjectID = "ddz-Ht-V2H"; */
+"ddz-Ht-V2H.text" = "Loading Last Message..";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "de9-lJ-kEr"; */
+"de9-lJ-kEr.normalTitle" = "男性";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "gFk-gR-K9X"; */
+"gFk-gR-K9X.normalTitle" = "男性";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "gJl-Cd-rBI"; */
+"gJl-Cd-rBI.normalTitle" = "女性";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "hsM-JG-CQr"; */
+"hsM-JG-CQr.text" = "ユーザー名";
+
+/* Class = "UILabel"; text = "Loading Last Message.."; ObjectID = "hx2-3z-MMl"; */
+"hx2-3z-MMl.text" = "Loading Last Message..";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "iCL-03-5Uo"; */
+"iCL-03-5Uo.text" = "パスワード";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "ipx-V5-nA5"; */
+"ipx-V5-nA5.text" = "性別";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "joq-bn-xjr"; */
+"joq-bn-xjr.normalTitle" = "パスワードをお忘れですか？";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "juA-mc-jrc"; */
+"juA-mc-jrc.normalTitle" = "ログイン";
+
+/* Class = "UILabel"; text = "Oops! Looks like you have not found any Match yet."; ObjectID = "k7S-ek-X7R"; */
+"k7S-ek-X7R.text" = "Oops! Looks like you have not found any Match yet.";
+
+/* Class = "UILabel"; text = "Loading Name..."; ObjectID = "mKf-UJ-YKd"; */
+"mKf-UJ-YKd.text" = "Loading Name...";
+
+/* Class = "UILabel"; text = "Oops! Looks like you have not found any Match yet."; ObjectID = "mLX-4p-vrl"; */
+"mLX-4p-vrl.text" = "Oops! Looks like you have not found any Match yet.";
+
+/* Class = "UILabel"; text = "SETTINGS"; ObjectID = "nKT-mx-c0d"; */
+"nKT-mx-c0d.text" = "設定";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "oKj-cK-KPa"; */
+"oKj-cK-KPa.normalTitle" = "設定";
+
+/* Class = "UIButton"; normalTitle = "Still don't have an account? Register Now!"; ObjectID = "rp9-TZ-OgP"; */
+"rp9-TZ-OgP.normalTitle" = "アカウントを持っていないですか？　登録する";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "sKp-fJ-ce6"; */
+"sKp-fJ-ce6.normalTitle" = "Facebook";
+
+/* Class = "UIButton"; normalTitle = "Set Your Current Location"; ObjectID = "saI-Mk-CRD"; */
+"saI-Mk-CRD.normalTitle" = "Set Your Current Location";
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "t2z-Me-N6g"; */
+"t2z-Me-N6g.text" = "Chat";
+
+/* Class = "UILabel"; text = "Haruto Ito"; ObjectID = "urT-Tl-Tey"; */
+"urT-Tl-Tey.text" = "Haruto Ito";
+
+/* Class = "UILabel"; text = "Age Limit"; ObjectID = "v4L-xi-mPF"; */
+"v4L-xi-mPF.text" = "Age Limit";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "v9Y-ls-9VB"; */
+"v9Y-ls-9VB.text" = "性別";
+
+/* Class = "UILabel"; text = "PROFILE"; ObjectID = "vAO-OP-41t"; */
+"vAO-OP-41t.text" = "プロフィール";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "zTp-41-hqq"; */
+"zTp-41-hqq.normalTitle" = "検索";
+
+/* Class = "UIButton"; normalTitle = "PR-Manager"; ObjectID = "zY3-Ds-LN8"; */
+"zY3-Ds-LN8.normalTitle" = "PR-Manager";
